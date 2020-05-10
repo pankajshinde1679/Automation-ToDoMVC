@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="33289" started-at="2020-05-09T16:39:21 IST" finished-at="2020-05-09T16:39:55 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="33289" started-at="2020-05-09T16:39:21 IST" finished-at="2020-05-09T16:39:55 IST">
+      <class name="com.github.SeleniumToDoMVC.ToDoMVCTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.github.SeleniumToDoMVC.ToDoMVCTest@ff5b51f]" name="beforeTest" is-config="true" duration-ms="4497" started-at="2020-05-09T16:39:21 IST" finished-at="2020-05-09T16:39:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="TestcaseOne()[pri:1, instance:com.github.SeleniumToDoMVC.ToDoMVCTest@ff5b51f]" name="TestcaseOne" duration-ms="28571" started-at="2020-05-09T16:39:26 IST" finished-at="2020-05-09T16:39:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestcaseOne -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.github.SeleniumToDoMVC.ToDoMVCTest@ff5b51f]" name="afterTest" is-config="true" duration-ms="167" started-at="2020-05-09T16:39:54 IST" finished-at="2020-05-09T16:39:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.github.SeleniumToDoMVC.ToDoMVCTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
